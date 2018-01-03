@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <UIVisualizer ServiceId="{A1D5FE15-233B-4E0B-80D4-69C04C8C9E75}" Id="1" MenuName="Bson Visualizer"/>
+
+  <Type Name="const char *">
+    <UIVisualizer ServiceId="{A1D5FE15-233B-4E0B-80D4-69C04C8C9E75}" Id="1" />
+  </Type>
+
+  <Type Name="const unsigned char *">
+    <UIVisualizer ServiceId="{A1D5FE15-233B-4E0B-80D4-69C04C8C9E75}" Id="1" />
+  </Type>
+</AutoVisualizer>

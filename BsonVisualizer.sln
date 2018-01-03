@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsonVisualizer", "BsonVisualizer\BsonVisualizer.csproj", "{84529559-3C77-4F5C-BA37-7DC9E6182CB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugUnix|Any CPU = DebugUnix|Any CPU
+		DebugWindows|Any CPU = DebugWindows|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseUnix|Any CPU = ReleaseUnix|Any CPU
+		ReleaseWindows|Any CPU = ReleaseWindows|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.DebugUnix|Any CPU.ActiveCfg = Debug|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.DebugUnix|Any CPU.Build.0 = Debug|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.DebugWindows|Any CPU.ActiveCfg = Debug|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.DebugWindows|Any CPU.Build.0 = Debug|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.ReleaseUnix|Any CPU.ActiveCfg = Release|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.ReleaseUnix|Any CPU.Build.0 = Release|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.ReleaseWindows|Any CPU.ActiveCfg = Release|Any CPU
+		{84529559-3C77-4F5C-BA37-7DC9E6182CB7}.ReleaseWindows|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
